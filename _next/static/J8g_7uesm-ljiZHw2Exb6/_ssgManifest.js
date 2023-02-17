@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F020_SG","\u002F030_SG_fetch","\u002F020_SG\u002F[id]","\u002F030_SG_fetch\u002F[detail]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
